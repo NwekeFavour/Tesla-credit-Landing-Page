@@ -1,0 +1,137 @@
+.Choose{
+    background-color: #EEF1FB;
+    width: 300px;
+}
+
+
+.Choose h1{
+    font-size: 20px;
+}
+
+.card-one img{
+    width: 40px !important;
+    height: 50px !important;
+}
+
+.card-two img{
+    width: 40px !important;
+    height: 50px !important;
+}
+
+.card-three img{
+    width: 40px !important;
+    height: 50px !important;
+}
+
+.card-four img{
+    width: 40px !important;
+    height: 50px !important;
+}
+
+.Special p{
+    font-size: 20px !important;
+}
+.Special{
+    width: 300px;
+}
+
+.Dealership p{
+    font-size: 20px !important;
+}
+.Dealership{
+    width: 300px;
+}
+
+.Transparent p{
+    font-size: 20px !important;
+}
+.Transparent{
+    width: 300px;
+}
+
+
+.Expert p{
+    font-size: 20px !important;
+}
+.Expert{
+    width: 300px;
+}
+
+
+
+.tesla-one img{
+    width: 200px;
+}
+
+.tesla-two img{
+    width: 252px;
+    border-radius: 20px;
+}
+
+.checker{
+    background-color: #f2f4fe;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+
+.londonText p{
+    font-size: 12px !important;
+}
+
+
+.GetStarted a{
+    background-color: #405FF2;
+}
+
+.Calc p{
+    font-size: 15px;
+}
+
+@media only screen and (max-width:768px) {
+    .CarsBody{
+        width: 300px;
+        margin: 0 auto;
+    }
+
+    .Tesla-title h2{
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .Tesla-title p{
+        font-size: 15px;
+    }
+
+    .coinOne h1{
+        font-size: 20px;
+    }
+    .coinTwo h1{
+        font-size: 20px;
+    }
+    .coinThree h1{
+        font-size: 20px;
+    }
+    .coinFour h1{
+        font-size: 20px;
+    }
+
+   
+}
+
+@media screen and (min-width:767px) {
+    .coinOne h1{
+        font-size: 20px;
+    }
+    .coinTwo h1{
+        font-size: 20px;
+    }
+    .coinThree h1{
+        font-size: 20px;
+    }
+    .coinFour h1{
+        font-size: 20px;
+    }
+}

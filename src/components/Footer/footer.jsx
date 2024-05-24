@@ -82,7 +82,6 @@ function footer(props) {
                             </ul>
                         </div>
                     </div>
-                    {/* hmm */}
                     <div className='p-2 Company'>
                         <h4 className='text-light m-0 fs-5'>Our mobile App</h4>
                         <div className='my-3'>

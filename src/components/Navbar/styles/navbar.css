@@ -1,0 +1,44 @@
+.Submit a{
+    font-size: 15px;
+    line-height: 27.8px;
+}
+
+.Submit{
+    border: 1px solid #000;
+    border-radius: 30px;
+    width: 152.86px;
+}
+
+
+.signIn a{
+    font-size: 15px;
+}
+
+.signIn-content{
+    position: relative;
+    left: 10px;
+}
+
+
+.nav{
+    border-bottom: 2px solid #E1E1E1;
+}
+
+.HoriLine {
+    height: 8px !important;
+}
+
+@media screen and (max-width:768px) {
+    .phone{
+        position: absolute;
+        top: 0;
+        right: 0;
+        height: 100vh  !important;
+
+        margin: 0a auto;
+        background-color: #f8f8f8;
+        z-index: 1000;
+        border-bottom: 1px solid #ccc;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+}

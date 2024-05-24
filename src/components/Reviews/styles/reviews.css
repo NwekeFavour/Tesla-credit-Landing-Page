@@ -1,0 +1,191 @@
+.Great-card{
+    background-color: #EBF7FE;
+}
+
+.Design-card{
+    background-color: #EBF7FE;
+}
+
+.Job-Design{
+    background-color: #EBF7FE;
+}
+
+.quote img{
+    width: 60%;
+}
+
+.quote-textOne p{
+    font-size: 15px;
+}
+
+.Prof-one img{
+    width: 40px;
+    height: 40px;
+}
+
+.Profabout-one p{
+    font-size: 13px;
+}
+
+.Profabout-one h6{
+    font-size: 10px;
+}
+
+.quote-textTwo p{
+    font-size: 15px;
+}
+
+.Prof-two img{
+    width: 40px;
+    height: 40px;
+}
+
+.Profabout-two p{
+    font-size: 13px;
+}
+
+.Profabout-two h6{
+    font-size: 10px;
+}
+
+.Form-text div form .Form-placeholder{
+    color: #818181 !important;
+}
+
+.brands{
+    width: 100px;
+}
+
+.brand-X{
+    width: 100px;
+}
+
+
+.brand-Semi{
+    width: 100px;
+}
+
+.brand-Cyb{
+    width: 100px;
+}
+
+.brand-Y{
+    width: 100px;
+}
+
+.brand-S{
+    width: 100px;
+}
+
+.backgroundOne{
+    position: absolute;
+    left: 100px;
+    width: 300px;
+    height: 300px;
+    background-color: #EEF1FB !important;
+}
+
+.brandOne{
+    width: 200px;
+}
+.Blog h4{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.Card-one img{
+    width: 200px;
+    border-radius: 30px;
+}
+.Card-two img{
+    border-radius: 30px;
+    width: 200px;
+}
+.Card-three img{
+    border-radius: 30px;
+    width: 200px;
+}
+
+.mainAlphina{
+    width: 200px;
+}
+
+
+.view{
+    position: absolute;
+    right: 20px;
+}
+
+.Join{
+    position: relative;
+    top: 70px;
+}
+
+
+.alphina{
+    font-size: 15px;
+}
+
+
+@media screen and (max-width:769px) {
+    .Admin{
+        
+        margin: 0 auto;
+        display: block !important;
+
+    }
+
+    .mainBmw{
+        width: 200px;
+    }
+}
+
+
+@media screen  and (min-width:768px) {
+    .Customer h1{
+        font-size: 40px !important;
+    }
+    .Reviews{
+        width: 100%;
+    }
+    .quote img{
+        width: 50px;
+    }
+    
+    .brands{
+        gap: 60px;
+    }
+
+    .Blog h4{
+        font-weight: bold;
+        font-size: 40px;
+    }
+    
+    .Card-one img{
+        width: 400px;
+        border-radius: 30px;
+    }
+    .Card-two img{
+        border-radius: 30px;
+        width: 400px;
+    }
+    .Card-three img{
+        border-radius: 30px;
+        width: 400px;
+    }
+
+    .Mainbmw{
+        width: 400px;
+    }
+    .mainAlphina{
+        width: 400px;
+    }
+    .mainBmw{
+        width: 400px;
+    }
+    .alphina{
+        font-size: 20px;
+    }
+
+
+}

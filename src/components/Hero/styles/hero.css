@@ -1,0 +1,176 @@
+
+
+.Caption h5{
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.Caption p{
+    font-size: 18.5px;
+    font-weight: bold;
+}
+
+.tabs ul li{
+    list-style-type: none;
+    
+}
+
+.tabs ul li a {
+    text-decoration: none;
+    color: #000 !important;
+}
+
+.Tabs-content{
+    position: relative;
+    bottom: 40px;
+    background-color: rgb(255, 255, 255, 0.6) ;
+    border-radius: 5px;
+}
+
+.dropdown-menu {
+    color: #fff !important;
+    background-color: #000 !important;
+}
+
+.drop-one h1{
+    font-size: 18px;
+}
+
+.drop-one p{
+    font-size: 15px;
+}
+
+.drop-two h1{
+    font-size: 18px !important;
+    line-height: 18px;
+}
+
+.drop-two p{
+    font-size: 15px;
+}
+
+.drop-three h1{
+    font-size: 18px !important;
+    line-height: 18px;
+}
+
+.drop-three p{
+    font-size: 15px;
+}
+
+.Search{
+    background-color: #405ff2;
+}
+
+.card-One{
+    height: 200px;
+    background-image: url(../images/Car4.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.cardTwo{
+    height: 200px;
+    background-image: url(../images/Car3.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.cardThree{
+    height: 200px;
+    background-image: url(../images/Car1.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+.cardFour{
+    height: 200px;
+    background-image: url(../images/Car6.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.cardFive{
+    height: 200px;
+    background-image: url(../images/Car5.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.cardSix{
+    height: 200px;
+    background-image: url(../images/cyberT.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+@media screen and (min-width:768px) {
+    .Cards{
+       justify-content: center;
+    }
+    .HeroBg{
+        height: 500px;
+    }
+
+    .Tabs-content{
+        width: 60%;
+        margin: 0 auto !important;
+    }
+
+    .Search{
+        width: 300px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .Cards{
+        width: 283px;
+        margin: 0 auto;
+    }
+
+    .card-One{
+    height: 200px;
+    background-image: url(../images/Car4.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.cardTwo{
+    height: 200px;
+    background-image: url(../images/Car3.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.cardThree{
+    height: 200px;
+    background-image: url(../images/Car1.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+.cardFour{
+    height: 200px;
+    background-image: url(../images/Car6.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.cardFive{
+    height: 200px;
+    background-image: url(../images/Car5.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.cardSix{
+    height: 200px;
+    background-image: url(../images/cyberT.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+}

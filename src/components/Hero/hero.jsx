@@ -1,9 +1,13 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import Navbar from '../Navbar/navbar'
 import Teslabg from './images/TeslaCar.avif';
 import './styles/hero.css'
-
+import AOS from 'aos';
+import 'aos/dist/aos.css'
 function hero(props) {
+    useEffect(() => {
+        AOS.init();
+    }, [])
     return (
         <div>
             <div className='container'>
@@ -56,8 +60,8 @@ function hero(props) {
                     </div>
                    
                 </div>
-                <div className='row  Cards my-4 d-md-flex align-items-center'>
-                    <div className="card border-0" style={{width: "18rem"}}>
+                <div data-aos="fade-up" className='row  Cards my-4 d-md-flex align-items-center'>
+                    <div   className="card border-0" style={{width: "18rem"}}>
                         <div className="card-body card-One">
                             <h5 className="card-title">3 Cars</h5>
                             <h6 className="card-subtitle mb-2 text-body-secondary">Model X</h6>
